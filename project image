@@ -1,6 +1,1 @@
-You must Design an Enterprise Network(Multiple WAN) for a University, Company, or Business. The following requirements must be fulfilled:
-There must be at least 10 Networks(at least 4 WANs).
-The hosts/PCs/laptops must be configured using DHCP.
-Routing must be Dynamic. No static routing should be used.
-You need to implement ACL(access control list) for at least 4 Networks
-You must implement NAT(Network Address Translation) to communicate between two LANs.
+
