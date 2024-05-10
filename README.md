@@ -1,3 +1,4 @@
 # CN-project
 
-In this project, i am designing an enterprise network(Multiple WAN) for
+In this project, I am designing an enterprise network(Multiple WAN) for
+Computer Network Lab.
